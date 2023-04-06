@@ -146,6 +146,10 @@ https://github.com/zeromicro/go-zero
 
 https://github.com/harlow/go-micro-services
 
+## Modern Go Application example
+
+https://github.com/sagikazarmark/modern-go-application
+
 
 
 # API
